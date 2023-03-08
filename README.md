@@ -1,3 +1,3 @@
 # test-git
 
-- add text2
+- add test fix pr fixed
